@@ -4,6 +4,17 @@
 nas variáveis do tipo int, nomeadas de a, b, c, d, e. Temos operações com casas decimais mostradas em float. 
 Que é um casting obrigatório pra não ficar números de fora do resultado em casas decimas.
 
+Com os resultados: 
+a * b / c = 0.667
+a * b % c + 1 = 3
+++a * b - c-- = 1
+7 - - b * ++d = 17
+a / b / c = 0.500
+7 + c * --d / e = 8.600
+2 * a % - b + c + 1 = 3
+39 / - ++e - + 29 % c = -7.500
+7 - + ++a % (3+b) = 4
+
 */
 
 

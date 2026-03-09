@@ -21,13 +21,13 @@
 
     
 
-    notafinal = (nota1 + nota2 + nota3)/3;
+        notafinal = (nota1 + nota2 + nota3)/3;
 
 
-    printf("Nota final do aluno: %.2f\n", notafinal);
+        printf("Nota final do aluno: %.2f\n", notafinal);
         if (notafinal >=7)
         {
-        printf("Aluno aprovado com %.2f\n", notafinal);
+            printf("Aluno aprovado com %.2f\n", notafinal);
         }
         else {
             printf("Aluno reprovado com %.2f\n", notafinal);
