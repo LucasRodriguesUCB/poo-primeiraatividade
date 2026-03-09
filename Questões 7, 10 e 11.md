@@ -1,0 +1,1 @@
+Professor, não consegui realizar as questões 7, 10 e 11. Não foi um conteúdo que cheguei a ter contato no ultimo semestre.
